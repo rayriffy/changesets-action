@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.5.0
+
+### Minor Changes
+
+- [`4c56449`](https://github.com/changesets/action/commit/4c56449f3ec63185ae5b0b9816e1acbea337399d) Thanks [@rayriffy](https://github.com/rayriffy)! - allow custom registry
+
 ## 1.4.5
 
 ### Patch Changes
